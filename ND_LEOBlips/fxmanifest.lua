@@ -11,7 +11,8 @@ client_scripts {
     'client/*.lua'
 }
 shared_scripts {
-    'config.lua'
+    'config.lua',
+    '@ND_Core/init.lua'
 }
 server_scripts {
     'server/*.lua'
