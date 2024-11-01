@@ -1,4 +1,4 @@
-NDCore = exports["ND_Core"]:GetCoreObject()
+
 local currentBlips = {}
 
 if Config.enable_blips then
