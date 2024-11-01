@@ -1,4 +1,4 @@
-NDCore = exports["ND_Core"]:GetCoreObject()
+
 local active_leo = {}
 
 if Config.enable_blips then
